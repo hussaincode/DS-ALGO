@@ -1,5 +1,6 @@
 package com.hussaincode.javaIntro.arrays05;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Q9 {
@@ -10,10 +11,14 @@ public class Q9 {
     }
     static int[] createTargetArray(int[] nums, int[] index) {
 
-        int[]target=new int[nums.length];
-        for (int i=0;i<nums.length;i++){
-            target[index[i]]=nums[i];
+        ArrayList<Integer> al = new ArrayList<>();
+        int[] result = new int[nums.length];
+        for (int i = 0; i < nums.length; i++){
+            al.add(index[i], nums[i]);
         }
-        return target;
+        for( int i = 0; i < nums.length; i++){
+            result[i] = al.get(i);
+        }
+        return result;
     }
 }
