@@ -5,7 +5,7 @@ public class Ceiling {
 
     public static void main(String[] args) {
         int[] arr ={2,5,7,9,13,15};
-        int target = 16;
+        int target = 8;
         System.out.println(ceiling(arr,target));
     }
 
