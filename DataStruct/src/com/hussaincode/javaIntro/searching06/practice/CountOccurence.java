@@ -1,8 +1,5 @@
 package com.hussaincode.javaIntro.searching06.practice;
 
-
-import java.util.Arrays;
-
 //https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
 public class CountOccurence {
     public static void main(String[] args) {
