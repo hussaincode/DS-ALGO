@@ -32,6 +32,7 @@ public class OrderAgnosticBS {
                 end=mid-1;
             }
         }
+
         return -1;
     }
     static int revrseBinarySearch(int[] arr, int target){
