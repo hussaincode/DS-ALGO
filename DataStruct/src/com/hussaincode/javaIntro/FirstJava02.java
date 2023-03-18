@@ -16,7 +16,7 @@ public class FirstJava02 {
         }*/
 
 //       2. Take name as input and print a greeting message for that name.
-        /*String name = sc.next();
+        /*string name = sc.next();
         System.out.println("Hey, Good Morning "+name);*/
 
 //      3. Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
@@ -36,7 +36,7 @@ public class FirstJava02 {
         System.out.print("Enter second num");
         double num2 = sc.nextDouble();
         System.out.print("Enter the operation you want to perform:(+,-,*,/) ");
-        String operation =  sc.next();
+        string operation =  sc.next();
         if(operation.equals("+")){
             System.out.println("Sum "+(num1+num2));
         }else if (operation.equals("-")){
@@ -82,10 +82,10 @@ public class FirstJava02 {
                 n2 = n3;
             }*/
 
-//       8. To find out whether the given String is Palindrome or not.
-       /* System.out.print("Enter the String: ");
-        String str=sc.next();
-        String rev="";
+//       8. To find out whether the given string is Palindrome or not.
+       /* System.out.print("Enter the string: ");
+        string str=sc.next();
+        string rev="";
         int length = str.length();
 
         for ( int i = length - 1; i >= 0; i-- )

@@ -50,7 +50,7 @@ public class Q18 {
     }
     /*  public List<Integer> addToArrayForm(int[] num, int k) {
         long sum=0;
-        String digit="";
+        string digit="";
         for(int i=0;i<num.length;i++){
             digit+=num[i];
         }

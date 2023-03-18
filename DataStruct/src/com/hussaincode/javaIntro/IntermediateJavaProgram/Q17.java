@@ -2,7 +2,7 @@ package com.hussaincode.javaIntro.IntermediateJavaProgram;
 
 import java.util.Scanner;
 
-//Reverse A String In Java
+//Reverse A string In Java
 public class Q17 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
