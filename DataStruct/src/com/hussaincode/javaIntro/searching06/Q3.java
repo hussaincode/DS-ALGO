@@ -19,4 +19,7 @@ public class Q3 {
         }
         return ans;
     }
+
+    private boolean isBadVersion(int mid) {
+    }
 }
