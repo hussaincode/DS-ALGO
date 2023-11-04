@@ -1,5 +1,6 @@
 package com.hussaincode.javaIntro.searching06;
 
+//https://leetcode.com/problems/arranging-coins/
 public class Q6 {
     public static void main(String[] args) {
         int n =5;
