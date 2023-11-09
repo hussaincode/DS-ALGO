@@ -1,5 +1,7 @@
 package com.hussaincode.javaIntro.sorting.cyclicsort;
 
+//https://leetcode.com/problems/find-the-duplicate-number/
+// Asked in amazon and microsoft
 public class DuplicateNumber {
     public static void main(String[] args) {
         int[] nums = {1,3,4,2,2};
