@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.strings;
+package com.hussaincode.javaIntro.strings.practice;
 
 import java.util.ArrayList;
 

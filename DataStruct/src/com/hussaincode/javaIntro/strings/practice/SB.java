@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.strings;
+package com.hussaincode.javaIntro.strings.practice;
 
 public class SB {
     public static void main(String[] args) {
