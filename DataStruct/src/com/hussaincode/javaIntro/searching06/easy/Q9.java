@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 //https://leetcode.com/problems/search-insert-position/
 public class Q9 {
     public static void main(String[] args) {

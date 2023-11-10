@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 
 public class Q17 {
     public static void main(String[] args) {

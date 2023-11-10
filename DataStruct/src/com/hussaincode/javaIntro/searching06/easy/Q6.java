@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 
 //https://leetcode.com/problems/arranging-coins/
 public class Q6 {

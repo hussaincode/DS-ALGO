@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 public class Q10 {

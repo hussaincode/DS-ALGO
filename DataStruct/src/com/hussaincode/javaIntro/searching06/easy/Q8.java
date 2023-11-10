@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 
 //https://leetcode.com/problems/kth-missing-positive-number/description/
 public class Q8 {

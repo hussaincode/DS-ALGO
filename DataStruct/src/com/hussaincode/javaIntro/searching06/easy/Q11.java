@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 
 //https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
 public class Q11 {

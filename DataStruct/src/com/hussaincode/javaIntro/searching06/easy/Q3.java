@@ -1,7 +1,7 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 
 //https://leetcode.com/problems/first-bad-version/
-public class Q3 {
+/*public class Q3 {
     public static void main(String[] args) {
 
     }
@@ -22,4 +22,4 @@ public class Q3 {
 
     private boolean isBadVersion(int mid) {
     }
-}
+}*/

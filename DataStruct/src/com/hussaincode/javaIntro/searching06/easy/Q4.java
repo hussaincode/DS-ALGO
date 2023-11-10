@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.searching06;
+package com.hussaincode.javaIntro.searching06.easy;
 //https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 public class Q4 {
     public static void main(String[] args) {
