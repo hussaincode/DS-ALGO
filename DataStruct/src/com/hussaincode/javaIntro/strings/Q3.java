@@ -1,5 +1,6 @@
 package com.hussaincode.javaIntro.strings;
 
+//https://leetcode.com/problems/goal-parser-interpretation/description/
 public class Q3 {
     public static void main(String[] args) {
         String command = "G()(al)";
