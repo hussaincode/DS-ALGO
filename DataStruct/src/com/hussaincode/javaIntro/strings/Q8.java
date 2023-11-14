@@ -1,5 +1,6 @@
 package com.hussaincode.javaIntro.strings;
 
+//https://leetcode.com/problems/determine-if-string-halves-are-alike/description/
 public class Q8 {
     public static void main(String[] args) {
         String s = "Book";
