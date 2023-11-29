@@ -1,4 +1,4 @@
-package com.hussaincode.javaIntro.pattern;
+package com.hussaincode.javaIntro.pattern.practice;
 
 public class Pattern31 {
     public static void main(String[] args) {

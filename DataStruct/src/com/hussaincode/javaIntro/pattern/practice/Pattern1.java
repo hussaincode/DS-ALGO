@@ -1,14 +1,18 @@
-package com.hussaincode.javaIntro.pattern;
+package com.hussaincode.javaIntro.pattern.practice;
 
-public class Pattern2 {
+/*
+**
+***
+****/
 
+public class Pattern1 {
     public static void main(String[] args) {
-        pattern2(4);
+        pattern1(4);
     }
-    static void pattern2(int n){
+    static void pattern1(int n){
         for (int row=1;row<=n;row++){
             //for every row run the column
-            for (int col=1;col<=n;col++){
+            for (int col=1;col<=row;col++){
                 System.out.print("* ");
             }
             //when one row is printed, need to add one line.
