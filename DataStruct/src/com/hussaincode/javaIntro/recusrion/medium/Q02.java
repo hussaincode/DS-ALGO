@@ -1,6 +1,6 @@
 package com.hussaincode.javaIntro.recusrion.medium;
 //https://leetcode.com/problems/word-search/description/
-public class Q2 {
+public class Q02 {
     public static void main(String[] args) {
        char[][] board ={{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
        String word = "SEE";
